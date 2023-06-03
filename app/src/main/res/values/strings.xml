@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Project Akhir</string>
+<!--Data User-->
+    <string-array name="namaUser">
+        <item>Abdul Jabbar Ramadhani</item>
+        <item>Ervina Mutiara Taufika</item>
+    </string-array>
+    <string-array name="nimUser">
+        <item>210441100062</item>
+        <item>210441100***</item>
+    </string-array>
+    <string-array name="imgUser">
+        <item>jabbar</item>
+        <item>ervina</item>
+    </string-array>
+
+<!--    Data Deskripsi-->
+    <string-array name="gambar">
+        <item>tif</item>
+        <item>ti</item>
+        <item>mesin</item>
+        <item>elektro</item>
+        <item>sisfor</item>
+    </string-array>
+    <string-array name="judul">
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Sistem Informasi</item>
+    </string-array>
+    <string-array name="sub_judul">
+        <item>Apa itu Teknik Informatika</item>
+        <item>Apa itu Teknik Industri</item>
+        <item>Apa itu Teknik Mesin</item>
+        <item>Apa itu Teknik Elektro</item>
+        <item>Apa itu Sistem Informasi</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Program studi Teknik Informatika mempelajari dan menerapkan prinsip-prinsip ilmu komputer dan analisa matematis untuk desain, pengembangan, pengujian, dan evaluasi perangkat lunak, sistem operasi dan kerja komputer. Pada prodi ini akan diajarkan mulai dari menghasilkan ide kreatif, kemudian merealisasikan ide tersebut, memecah fungsi-fungsi, dan menciptakan struktur instruksi yang sangat detil dalam bahasa pemrograman untuk mengajarkan komputer apa saja yang harus dilakukan. Mahasiswa Ilmu Komputer harus menjadi ahli dalam sistem operasi dan aplikasi untuk memastikan bahwa dasar sistem operasi bekerja dengan baik.</item>
+        <item>Teknik Industri merupakan ilmu yang mempelajari proses industri baik dari sisi manajemen ataupun teknik. Ilmu teknik industri sebenarnya adalah turunan dari teknik mesin. Walau demikian, para mahasiswa juga harus mempelajari disiplin lain seperti matematika, fisika, fisiologi, bahkan manajemen saintifik. Teknik industri berfokus kepada perancangan, peningkatan, dan pemasangan sistem terintegrasi yang membutuhkan peran manusia, material, peralatan dan energi. Teknik Industri sendiri dibagi menjadi tiga bidang besar. Pertama, sistem manufaktur yang mempelajari peningkatan kualitas, produktivitas, dan efisiensi sistem produksi. Kedua adalah manajemen industri, di mana para mahasiswa harus mempelajari manajemen keuangan, manajemen operasional, manajemen inovasi, perencanaan dan pengendalian produksi, dan ekonomi teknik. Ketiga adalah sistem industri dan tekno ekonomi, seperti logistik, statistik, penelitian operasional, dan sistem basis data</item>
+        <item>Teknik mesin dikenal juga dengan sebutan teknik mekanika. Pada program studi Teknik Mesin, kamu akan mempelajari prinsip-prinsip fisika yang kemudian diimplementasikan pada analisis, desain, manufaktur, dan pemeliharaan mesin. Oleh karena itu, sebagai mahasiswa teknik mesin, kamu harus memperdalam kemampuan pada beberapa cabang ilmu teknik mesin, seperti mekanika, kinematika, teknik material, dan termodinamika. Pemahaman tentang mesin sangat dibutuhkan oleh banyak industri terutama otomotif dan manufaktur. Disini kamu diharapkan untuk dapat selalu update tentang mesin. Sebab, mesin selalu berkembang mengikuti pengetahuan teknologi. Semakin modern, mesin semakin canggih.</item>
+        <item>Teknik elektro merupakan ilmu teknik yang mempelajari sifat-sifat elektron yang kita kenal sebagai listrik. Mahasiswa Teknik Elektro mempelajari aplikasi dan pemanfaatan listrik dalam kehidupan sehari-hari, serta teknologi yang terkait. Cakupan teknik elektro sangat luas, mulai dari sumber pembangkit tenaga listrik, sistem jaringan distribusi, sampai pada pemanfaatannya oleh pengguna akhir. Teknik Elektro pun dipecah menjadi beberapa konsentrasi, seperti teknik elektronika, teknik listrik, teknik instrumentasi, sampai teknik komputer dan telekomunikasi. </item>
+        <item>Pada program studi Sistem Informasi (SI) akan dipelajari tentang bagaimana mendesain sistem yang tepat berdasarkan tujuan organisasi atau perusahaan sesuai dengan kebutuhan dan proses bisnis. Program studi Sistem Informasi juga dikenal dengan nama Manajemen Informatika (MI). Keduanya sama-sama mempelajari ilmu IT sebagai penjembatan dalam dunia bisnis. Sederhananya, mahasiswa SI dan MI dididik untuk memahami dan memenuhi keinginan dan kebutuhan klien atau user akan sistem IT untuk kepentingan bisnis atau organisasi. Mahasiswa di jurusan ini diarahkan agar dapat mengembangkan, memanfaatkan, dan mengelola software dan hardware yang ada dalam dunia bisnis maupun perseorangan. Pada prodi ini mahasiswa nggak cuma dibekali dengan ilmu pemrograman tapi juga manajemen dan bisnis. </item>
+    </string-array>
+
+    <string-array name="itemNama">
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Sistem Informasi</item>
+    </string-array>
+    <string-array name="ItemImg">
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Sistem Informasi</item>
+        <item>Akuntansi</item>
+        <item>Pendidikan Dokter</item>
+        <item>Ilmu Hukum</item>
+        <item>Hubungan Internasional</item>
+        <item>Agroekoteknologi</item>
+        <item>Farmasi</item>
+        <item>Psikologi</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Sastra Inggris</item>
+        <item>Sastra Indonesia</item>
+    </string-array>
+
+</resources>
